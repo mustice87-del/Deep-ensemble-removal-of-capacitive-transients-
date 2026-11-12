@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/34732525/README.md)
 # Minimal dataset: Deep-ensemble removal of capacitive transients in cell-attached NaV1.6 patch-clamp recordings
 
-Companion to the manuscript by M. Demirtaş (Bursa Uludağ University). Status of each item is stated below;
+Companion to the manuscript by M. Demirtaş. Status of each item is stated below;
 
 ## Contents
 | Path | Description | Status |
