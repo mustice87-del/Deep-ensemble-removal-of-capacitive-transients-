@@ -10,13 +10,11 @@ Companion data and code for the manuscript on deep-ensemble (1D U-Net) baseline 
 - `code/` — simulator, estimators, training, evaluation and figure scripts (Python; NumPy, SciPy, PyTorch, matplotlib). `code/common.py` holds the paths; edit them to your layout. Some scripts still contain an extra estimator that is not part of the manuscript.
 
 ## Not included
-The raw Axon Binary Format file (about 430 MB, 493 sweeps, four voltage steps each) is too large for this repository. The real-sweep evaluation of steps s1, s2 and s4 (Tables 4 and 5) and the simulator calibration need it; it is available at: [DOI to be added].
+The raw Axon Binary Format file (about 430 MB, 493 sweeps, four voltage steps each) is too large for this repository. The real-sweep evaluation of steps s1, s2 and s4 (Tables 4 and 5) and the simulator calibration need it; it is available at: 10.5281/zenodo.24161117.
 
 ## Reproducing
 The step 3 tables (RMS difference to the manual baseline, channel counts, late openings) can be recomputed from `data/step3_windows.npz` with `code/cmp_manual.py`, `code/cnt.py`, `code/cnt2.py` and `code/late.py` (adapt the input paths).
 
 ## Licence
-Code: MIT. Data: CC BY 4.0. [to be confirmed by the authors]
+Code: MIT. Data: CC BY 4.0.
 
-## Citation
-[manuscript citation to be added]
