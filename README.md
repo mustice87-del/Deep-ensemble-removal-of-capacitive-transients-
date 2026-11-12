@@ -22,4 +22,4 @@ All windows are 1500 samples (15 ms) long and start 6 samples (0.06 ms) after th
 The complete raw recording (about 430 MB) is not in the repository. All numbers that the manuscript reports for step 3 and for the 600 evaluation sweeps can be recomputed from the files above; recalibrating the simulator from the full recording needs the raw file.
 
 ## Licence
-Code: MIT. Data: CC BY 4.0. [to be confirmed by the authors]
+Code: MIT. Data: CC BY 4.0.
