@@ -36,4 +36,4 @@ Cell-attached CHO cell expressing NaV1.6; pCLAMP 10.3.2.1, Axon Binary Format 2.
 Python 3.13, NumPy 2.5.3, SciPy 1.18.1 (HiGHS), MATLAB R2026a (ABF reading).
 
 ## Privacy and licence
-No personal or confidential data (cell-line recording only). Suggested licence: CC-BY 4.0 for data, an OSI licence (e.g. MIT) for code. Deposit in a trusted repository (e.g. Zenodo) to obtain a DOI and cite it in the Data Availability Statement.
+CC-BY 4.0 for data, an OSI licence (MIT) for code.
